@@ -7,6 +7,6 @@
 	<link rel="shortcut icon" href="/logo.jpg" type="image/x-icon">
 </head>
 <body>
-	<h1>Всем привет</h1>
+	<h1> РљРЈРєСѓ СЂСѓРєСѓ </h1>
 </body>
 </html>
